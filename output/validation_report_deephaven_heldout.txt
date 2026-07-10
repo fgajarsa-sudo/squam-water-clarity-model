@@ -1,0 +1,45 @@
+======================================================================
+SQUAM (site='Deep Haven' only) / LITTLE SQUAM (lake-wide, unchanged)
+VALIDATION AGAINST REAL READINGS
+======================================================================
+
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26
+Previous run (Squam = full lake-wide average): Squam-only r ranged -0.16 to 0.18, not significant
+
+--- Exact date match ---
+All (Squam/Deep Haven + Little Squam): n=21
+  Pearson r = 0.264 (p=0.2470)
+  R^2       = 0.070
+  MAE       = 2.127 m
+  RMSE      = 2.470 m
+
+  Squam Lake [Deep Haven only]: n=12
+  Pearson r = 0.130 (p=0.6879)
+  R^2       = 0.017
+  MAE       = 2.485 m
+  RMSE      = 2.872 m
+
+  Little Squam Lake [lake-wide, unchanged]: n=9
+  Pearson r = 0.432 (p=0.2453)
+  R^2       = 0.187
+  MAE       = 1.650 m
+  RMSE      = 1.801 m
+
+--- +/- 3 day tolerance match ---
+All, tolerance (3d): n=86
+  Pearson r = 0.328 (p=0.0021)
+  R^2       = 0.107
+  MAE       = 2.363 m
+  RMSE      = 2.678 m
+
+  Squam Lake [Deep Haven only]: n=41
+  Pearson r = 0.335 (p=0.0323)
+  R^2       = 0.112
+  MAE       = 2.707 m
+  RMSE      = 3.017 m
+
+  Little Squam Lake [lake-wide, unchanged]: n=45
+  Pearson r = 0.302 (p=0.0438)
+  R^2       = 0.091
+  MAE       = 2.048 m
+  RMSE      = 2.326 m

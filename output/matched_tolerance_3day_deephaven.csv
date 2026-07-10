@@ -1,0 +1,87 @@
+Lake_x,Date,real_secchi_m,n_stations,Lake_y,predicted_secchi_m,Lake
+Squam Lake,1985-08-29,7.5,1,Squam Lake,5.568499845010278,Squam Lake
+Squam Lake,1986-07-08,8.6,1,Squam Lake,5.243531007811594,Squam Lake
+Squam Lake,1990-08-31,6.8,1,Squam Lake,3.505974342313243,Squam Lake
+Squam Lake,1993-08-12,9.0,1,Squam Lake,5.906737868973567,Squam Lake
+Squam Lake,1996-07-23,6.9,1,Squam Lake,5.784111057608777,Squam Lake
+Squam Lake,1997-06-17,6.8,1,Squam Lake,6.716724146827042,Squam Lake
+Squam Lake,1998-08-17,7.75,1,Squam Lake,5.192750458761833,Squam Lake
+Squam Lake,1999-07-21,8.8,1,Squam Lake,4.7790938188888585,Squam Lake
+Squam Lake,1999-08-30,8.1,1,Squam Lake,5.967511908008662,Squam Lake
+Squam Lake,2000-08-22,6.5,1,Squam Lake,4.672040542360413,Squam Lake
+Squam Lake,2001-06-25,7.3,1,Squam Lake,5.4550093270710285,Squam Lake
+Squam Lake,2001-08-28,9.0,1,Squam Lake,6.194802633766201,Squam Lake
+Squam Lake,2002-06-21,8.7,1,Squam Lake,6.590649179600465,Squam Lake
+Squam Lake,2002-07-31,9.2,1,Squam Lake,8.437773002186702,Squam Lake
+Squam Lake,2003-08-26,9.4,1,Squam Lake,6.635310443278946,Squam Lake
+Squam Lake,2005-06-23,7.4,1,Squam Lake,2.792197617327118,Squam Lake
+Squam Lake,2005-07-20,11.4,1,Squam Lake,7.400689180330086,Squam Lake
+Squam Lake,2005-09-07,9.0,1,Squam Lake,5.036298533799532,Squam Lake
+Squam Lake,2006-07-26,10.1,1,Squam Lake,6.986019953829511,Squam Lake
+Squam Lake,2007-06-27,9.2,1,Squam Lake,6.398034136226063,Squam Lake
+Squam Lake,2007-08-23,9.3,1,Squam Lake,5.397624483861691,Squam Lake
+Squam Lake,2007-09-24,8.9,1,Squam Lake,7.240642548751255,Squam Lake
+Squam Lake,2008-08-20,7.0,1,Squam Lake,6.719579678865575,Squam Lake
+Squam Lake,2008-09-22,8.3,1,Squam Lake,6.221087130758127,Squam Lake
+Squam Lake,2009-07-15,8.15,1,Squam Lake,6.636659606616105,Squam Lake
+Squam Lake,2009-08-19,9.1,1,Squam Lake,7.966752448845606,Squam Lake
+Squam Lake,2011-06-22,6.8,1,Squam Lake,5.559932278063359,Squam Lake
+Squam Lake,2011-07-20,9.8,1,Squam Lake,5.610422964124768,Squam Lake
+Squam Lake,2012-09-20,8.3,1,Squam Lake,4.962465697119549,Squam Lake
+Squam Lake,2013-06-19,6.3,1,Squam Lake,6.473598252447467,Squam Lake
+Squam Lake,2013-07-17,10.2,1,Squam Lake,5.644384834301105,Squam Lake
+Squam Lake,2013-08-20,9.18,1,Squam Lake,5.347306329920079,Squam Lake
+Squam Lake,2014-08-12,9.53,1,Squam Lake,6.910344489909354,Squam Lake
+Squam Lake,2015-08-12,10.1,1,Squam Lake,7.689600809579311,Squam Lake
+Squam Lake,2016-06-16,10.2,1,Squam Lake,6.396468546536794,Squam Lake
+Squam Lake,2016-07-12,10.2,1,Squam Lake,5.303916824442535,Squam Lake
+Squam Lake,2016-08-18,9.2,1,Squam Lake,5.045852220192222,Squam Lake
+Squam Lake,2017-06-13,8.9,1,Squam Lake,5.850629800955153,Squam Lake
+Squam Lake,2018-07-11,10.3,1,Squam Lake,4.637720773648479,Squam Lake
+Squam Lake,2019-07-16,7.8,1,Squam Lake,5.620255419136425,Squam Lake
+Squam Lake,2019-08-20,8.3,1,Squam Lake,6.149457872160094,Squam Lake
+Little Squam Lake,1984-06-19,6.8,1,Little Squam Lake,4.677574421290464,Little Squam Lake
+Little Squam Lake,1985-08-29,8.0,1,Little Squam Lake,4.238919511504835,Little Squam Lake
+Little Squam Lake,1989-07-27,7.1,1,Little Squam Lake,4.765896584157472,Little Squam Lake
+Little Squam Lake,1989-09-07,8.9,1,Little Squam Lake,4.895488904798392,Little Squam Lake
+Little Squam Lake,1990-06-28,6.1,1,Little Squam Lake,2.70226153912754,Little Squam Lake
+Little Squam Lake,1990-07-24,7.4,1,Little Squam Lake,6.451397563604688,Little Squam Lake
+Little Squam Lake,1990-08-31,6.0,1,Little Squam Lake,5.374814334509232,Little Squam Lake
+Little Squam Lake,1991-08-20,6.85,2,Little Squam Lake,5.659435648874725,Little Squam Lake
+Little Squam Lake,1993-08-12,7.9,1,Little Squam Lake,6.478163641569637,Little Squam Lake
+Little Squam Lake,1994-05-31,6.6,1,Little Squam Lake,4.768344771228767,Little Squam Lake
+Little Squam Lake,1995-08-22,8.1,1,Little Squam Lake,6.821307084595475,Little Squam Lake
+Little Squam Lake,1996-07-23,6.8,1,Little Squam Lake,6.186172305121668,Little Squam Lake
+Little Squam Lake,1998-08-17,6.75,1,Little Squam Lake,5.3078349911976925,Little Squam Lake
+Little Squam Lake,1999-08-30,6.7,1,Little Squam Lake,6.384194653665784,Little Squam Lake
+Little Squam Lake,2000-07-24,7.5,1,Little Squam Lake,5.934198573192454,Little Squam Lake
+Little Squam Lake,2000-08-22,7.0,1,Little Squam Lake,6.186688596833725,Little Squam Lake
+Little Squam Lake,2001-08-28,8.9,1,Little Squam Lake,5.785035401487402,Little Squam Lake
+Little Squam Lake,2002-06-21,8.7,1,Little Squam Lake,6.436728248118548,Little Squam Lake
+Little Squam Lake,2002-07-31,8.6,1,Little Squam Lake,7.25505745582196,Little Squam Lake
+Little Squam Lake,2003-08-26,8.2,1,Little Squam Lake,6.105165888618982,Little Squam Lake
+Little Squam Lake,2005-06-23,7.7,1,Little Squam Lake,6.065711260426494,Little Squam Lake
+Little Squam Lake,2005-07-20,8.9,1,Little Squam Lake,6.997172658761071,Little Squam Lake
+Little Squam Lake,2006-07-26,5.4,1,Little Squam Lake,7.471064507759924,Little Squam Lake
+Little Squam Lake,2007-08-23,8.2,1,Little Squam Lake,5.893795290709297,Little Squam Lake
+Little Squam Lake,2007-09-24,8.9,1,Little Squam Lake,4.91902990837629,Little Squam Lake
+Little Squam Lake,2008-08-20,5.7,1,Little Squam Lake,5.303231056096682,Little Squam Lake
+Little Squam Lake,2008-09-22,6.4,1,Little Squam Lake,5.124081830700006,Little Squam Lake
+Little Squam Lake,2009-08-19,6.6,1,Little Squam Lake,4.370370553058051,Little Squam Lake
+Little Squam Lake,2011-06-22,7.0,1,Little Squam Lake,4.846583991490396,Little Squam Lake
+Little Squam Lake,2011-07-20,7.1,1,Little Squam Lake,5.303256789446033,Little Squam Lake
+Little Squam Lake,2012-07-10,8.0,1,Little Squam Lake,6.434133204739713,Little Squam Lake
+Little Squam Lake,2013-06-19,5.9,2,Little Squam Lake,5.664410389685121,Little Squam Lake
+Little Squam Lake,2013-07-17,7.4,1,Little Squam Lake,5.5762876987051655,Little Squam Lake
+Little Squam Lake,2013-08-20,8.4,1,Little Squam Lake,5.61205829127744,Little Squam Lake
+Little Squam Lake,2014-08-12,8.0,1,Little Squam Lake,5.947392704906217,Little Squam Lake
+Little Squam Lake,2015-06-17,6.9,1,Little Squam Lake,6.006222950049952,Little Squam Lake
+Little Squam Lake,2015-08-12,9.7,1,Little Squam Lake,8.176096839105334,Little Squam Lake
+Little Squam Lake,2016-06-16,9.6,1,Little Squam Lake,5.247594736620698,Little Squam Lake
+Little Squam Lake,2016-07-12,9.9,1,Little Squam Lake,6.850109825832642,Little Squam Lake
+Little Squam Lake,2016-08-18,8.5,1,Little Squam Lake,5.235963747763342,Little Squam Lake
+Little Squam Lake,2017-06-13,7.8,1,Little Squam Lake,6.646209801212399,Little Squam Lake
+Little Squam Lake,2017-08-15,9.0,1,Little Squam Lake,5.6825336176878665,Little Squam Lake
+Little Squam Lake,2018-07-11,9.1,1,Little Squam Lake,5.375264642163391,Little Squam Lake
+Little Squam Lake,2018-08-16,10.0,1,Little Squam Lake,5.120932104437236,Little Squam Lake
+Little Squam Lake,2019-08-20,7.6,1,Little Squam Lake,5.03752854129204,Little Squam Lake

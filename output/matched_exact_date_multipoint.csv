@@ -1,0 +1,136 @@
+Lake,Site,Date,real_secchi_m,n_readings,site,predicted_secchi_m
+Little Squam,1 West,1984-06-19,6.8,1,1 West,5.41047186080586
+Little Squam,1 West,2001-06-25,6.5,1,1 West,5.41150015936841
+Little Squam,1 West,2001-08-28,8.9,1,1 West,4.417465288829165
+Little Squam,1 West,2002-06-21,8.7,1,1 West,6.628592295843045
+Little Squam,1 West,2002-07-31,8.6,1,1 West,7.293724863053615
+Little Squam,1 West,2006-07-26,5.4,1,1 West,8.226313923687426
+Little Squam,1 West,2012-07-10,8.0,1,1 West,6.764328768759018
+Little Squam,1 West,2013-06-19,6.5,1,1 West,5.105325359376961
+Little Squam,1 West,2015-06-17,6.9,1,1 West,5.994405866772119
+Little Squam,1 West,2015-08-12,9.7,1,1 West,9.252374765467868
+Little Squam,1 West,2016-07-12,9.9,1,1 West,5.3449410811149605
+Squam,10 Sandwich Bay,2001-06-25,7.1,1,10 Sandwich Bay,5.112645233621935
+Squam,10 Sandwich Bay,2001-06-25,7.1,1,10 Sandwich Bay,5.3251649262071306
+Squam,10 Sandwich Bay,2001-08-28,9.4,1,10 Sandwich Bay,5.419490148493914
+Squam,10 Sandwich Bay,2001-08-28,9.4,1,10 Sandwich Bay,5.10536823828388
+Squam,10 Sandwich Bay,2002-06-21,8.6,1,10 Sandwich Bay,6.617609824997223
+Squam,10 Sandwich Bay,2009-08-19,9.3,1,10 Sandwich Bay,7.344908242716382
+Squam,10 Sandwich Bay,2010-07-21,10.6,1,10 Sandwich Bay,5.994610180253396
+Squam,10 Sandwich Bay,2011-06-22,6.9,1,10 Sandwich Bay,6.517714939421687
+Squam,10 Sandwich Bay,2013-06-19,7.3,1,10 Sandwich Bay,6.448113325452324
+Squam,10 Sandwich Bay,2015-06-17,10.9,1,10 Sandwich Bay,7.580376479464977
+Squam,11 Kent Island,2013-06-19,5.5,1,11 Kent Island,5.408576727994225
+Squam,12 Moultonboro Bay,2001-06-25,6.9,1,12 Moultonboro Bay,5.927403493679665
+Squam,12 Moultonboro Bay,2001-06-25,6.9,1,12 Moultonboro Bay,6.099860752200087
+Squam,12 Moultonboro Bay,2001-08-28,8.7,1,12 Moultonboro Bay,6.637609020179826
+Squam,12 Moultonboro Bay,2001-08-28,8.7,1,12 Moultonboro Bay,6.36251087046842
+Squam,12 Moultonboro Bay,2002-06-21,9.1,1,12 Moultonboro Bay,5.696341146428008
+Squam,12 Moultonboro Bay,2002-07-31,9.175,1,12 Moultonboro Bay,8.056040519278104
+Squam,12 Moultonboro Bay,2006-07-26,9.8,1,12 Moultonboro Bay,6.755429842729486
+Squam,12 Moultonboro Bay,2012-07-10,9.2,1,12 Moultonboro Bay,8.443092857115106
+Squam,12 Moultonboro Bay,2013-06-19,7.15,1,12 Moultonboro Bay,4.739360124517062
+Squam,12 Moultonboro Bay,2015-06-17,9.2,1,12 Moultonboro Bay,6.540799562049061
+Squam,12 Moultonboro Bay,2015-08-12,9.9,1,12 Moultonboro Bay,7.723810711122217
+Squam,12 Moultonboro Bay,2016-07-12,9.9,1,12 Moultonboro Bay,6.36634293208238
+Squam,12 Moultonboro Bay,2016-07-12,9.9,1,12 Moultonboro Bay,5.751286249893563
+Squam,14 Sturtevant Bay,2001-06-25,6.7,1,14 Sturtevant Bay,5.816635410667105
+Squam,14 Sturtevant Bay,2001-06-25,6.7,1,14 Sturtevant Bay,5.47937325235549
+Squam,14 Sturtevant Bay,2001-08-28,8.5,1,14 Sturtevant Bay,5.846476911143632
+Squam,14 Sturtevant Bay,2001-08-28,8.5,1,14 Sturtevant Bay,5.255733418800982
+Squam,14 Sturtevant Bay,2002-06-21,8.05,1,14 Sturtevant Bay,6.740700450649346
+Squam,14 Sturtevant Bay,2002-07-31,9.4,1,14 Sturtevant Bay,7.024610679445227
+Squam,14 Sturtevant Bay,2006-07-26,9.1,1,14 Sturtevant Bay,7.877525893165326
+Squam,14 Sturtevant Bay,2013-06-19,7.0,1,14 Sturtevant Bay,6.202079227796177
+Squam,14 Sturtevant Bay,2015-06-17,9.6,1,14 Sturtevant Bay,6.890976948595839
+Squam,14 Sturtevant Bay,2016-07-12,9.5,1,14 Sturtevant Bay,5.489868953154927
+Squam,14 Sturtevant Bay,2016-07-12,9.5,1,14 Sturtevant Bay,5.53307936748286
+Squam,16 Dog Cove,2001-06-25,6.3,1,16 Dog Cove,5.478876996908648
+Squam,16 Dog Cove,2001-08-28,6.7,1,16 Dog Cove,5.044863994477742
+Squam,16 Dog Cove,2001-08-28,6.7,1,16 Dog Cove,5.556239855672104
+Squam,16 Dog Cove,2002-06-21,8.1,1,16 Dog Cove,6.918568237515081
+Squam,16 Dog Cove,2009-08-19,7.1,1,16 Dog Cove,7.2947624245254685
+Squam,16 Dog Cove,2012-07-10,7.4,1,16 Dog Cove,6.207742647662167
+Squam,16 Dog Cove,2013-06-19,5.7,1,16 Dog Cove,6.188856607543105
+Squam,16 Dog Cove,2014-07-08,6.66,1,16 Dog Cove,5.369152099193236
+Squam,16 Dog Cove,2015-06-17,7.1,1,16 Dog Cove,6.658789038961041
+Squam,16 Dog Cove,2015-08-12,8.0,1,16 Dog Cove,8.061733631351283
+Squam,16 Dog Cove,2016-07-12,7.7,1,16 Dog Cove,5.389662204617455
+Squam,16 Dog Cove,2016-07-12,7.7,1,16 Dog Cove,6.48521730324542
+Squam,18 Piper Cove,2001-06-25,5.9,1,18 Piper Cove,5.69367673785169
+Squam,18 Piper Cove,2001-08-28,7.3,1,18 Piper Cove,5.555372848651348
+Squam,18 Piper Cove,2001-08-28,7.3,1,18 Piper Cove,5.888023581703965
+Squam,18 Piper Cove,2002-06-21,7.7,1,18 Piper Cove,6.8482269407259375
+Squam,18 Piper Cove,2006-07-26,7.7,1,18 Piper Cove,7.448926732125954
+Squam,18 Piper Cove,2009-08-19,7.3,1,18 Piper Cove,5.3848902216848895
+Squam,18 Piper Cove,2011-06-22,6.6,1,18 Piper Cove,5.48143777183901
+Squam,18 Piper Cove,2013-06-19,6.3,1,18 Piper Cove,5.871273147676869
+Squam,18 Piper Cove,2015-06-17,7.6,1,18 Piper Cove,6.399649479797975
+Squam,18 Piper Cove,2015-08-12,8.0,1,18 Piper Cove,7.837262215211263
+Squam,2 Cotton Cove,2006-07-26,7.7,1,2 Cotton Cove,7.558699063048071
+Squam,2 Cotton Cove,2012-07-10,7.0,1,2 Cotton Cove,4.756204761682762
+Squam,2 Cotton Cove,2013-06-19,6.2,1,2 Cotton Cove,5.276236024450545
+Squam,2 Cotton Cove,2015-06-17,6.8,1,2 Cotton Cove,5.651433830338458
+Squam,2 Cotton Cove,2016-07-12,6.9,1,2 Cotton Cove,5.230442982732782
+Squam,2 Cotton Cove,2016-07-12,6.9,1,2 Cotton Cove,4.994124105062129
+Squam,5 Livermore Cove,2001-06-25,6.7,1,5 Livermore Cove,5.00446046826944
+Squam,5 Livermore Cove,2001-06-25,6.7,1,5 Livermore Cove,5.350025185950856
+Squam,5 Livermore Cove,2001-08-28,7.0,1,5 Livermore Cove,5.077569708041946
+Squam,5 Livermore Cove,2001-08-28,7.0,1,5 Livermore Cove,5.735862834859584
+Squam,5 Livermore Cove,2002-06-21,7.15,1,5 Livermore Cove,5.803901604140299
+Squam,5 Livermore Cove,2006-07-26,8.6,1,5 Livermore Cove,7.304744105167048
+Squam,5 Livermore Cove,2009-08-19,7.5,1,5 Livermore Cove,7.71980933665779
+Squam,5 Livermore Cove,2010-07-21,8.3,1,5 Livermore Cove,7.212561366772108
+Squam,5 Livermore Cove,2011-06-22,5.9,1,5 Livermore Cove,6.059589737913588
+Squam,5 Livermore Cove,2013-06-19,6.0,1,5 Livermore Cove,4.795595964001056
+Squam,5 Livermore Cove,2015-08-12,8.8,1,5 Livermore Cove,7.1186284606325065
+Squam,5 Livermore Cove,2016-07-12,8.2,1,5 Livermore Cove,5.5461938743631904
+Squam,5 Livermore Cove,2016-07-12,8.2,1,5 Livermore Cove,5.384623264405342
+Squam,8 Rattlesnake Cove,2001-06-25,6.4,1,8 Rattlesnake Cove,5.991847091160174
+Squam,8 Rattlesnake Cove,2001-06-25,6.4,1,8 Rattlesnake Cove,5.73349701229402
+Squam,8 Rattlesnake Cove,2001-08-28,6.4,1,8 Rattlesnake Cove,5.700173999139744
+Squam,8 Rattlesnake Cove,2001-08-28,6.4,1,8 Rattlesnake Cove,5.602706735486736
+Squam,8 Rattlesnake Cove,2002-06-21,6.75,1,8 Rattlesnake Cove,5.952242223793001
+Squam,8 Rattlesnake Cove,2002-07-31,7.225,1,8 Rattlesnake Cove,8.704313564837696
+Squam,8 Rattlesnake Cove,2006-07-26,7.4,1,8 Rattlesnake Cove,7.182629437373737
+Squam,8 Rattlesnake Cove,2009-08-19,7.5,1,8 Rattlesnake Cove,8.049661185653232
+Squam,8 Rattlesnake Cove,2013-06-19,5.86,1,8 Rattlesnake Cove,5.843985995131576
+Squam,8 Rattlesnake Cove,2015-06-17,7.4,1,8 Rattlesnake Cove,7.954137637806637
+Squam,8 Rattlesnake Cove,2016-07-12,7.5,1,8 Rattlesnake Cove,6.765597747339764
+Squam,8 Rattlesnake Cove,2016-07-12,7.5,1,8 Rattlesnake Cove,6.581891117951375
+Squam,9A Inner Squaw Cove,2001-06-25,3.5,1,9A Inner Squaw Cove,5.306740917281005
+Squam,9A Inner Squaw Cove,2001-06-25,3.5,1,9A Inner Squaw Cove,5.104620228688579
+Squam,9A Inner Squaw Cove,2002-06-21,4.65,1,9A Inner Squaw Cove,5.664459630168363
+Squam,9A Inner Squaw Cove,2002-07-31,5.4,1,9A Inner Squaw Cove,5.968851238844485
+Squam,9A Inner Squaw Cove,2006-07-26,4.1,1,9A Inner Squaw Cove,5.734788981490736
+Squam,9A Inner Squaw Cove,2009-08-19,4.1,1,9A Inner Squaw Cove,7.502599439033181
+Squam,9A Inner Squaw Cove,2015-08-12,5.6,1,9A Inner Squaw Cove,8.443938216504712
+Squam,9A Inner Squaw Cove,2016-07-12,4.2,1,9A Inner Squaw Cove,5.925474256056124
+Squam,9A Inner Squaw Cove,2016-07-12,4.2,1,9A Inner Squaw Cove,5.689810490824001
+Squam,Deep Haven,1984-06-19,7.0,1,Deep Haven,5.602892679076483
+Squam,Deep Haven,2001-06-25,7.3,1,Deep Haven,4.48186421236745
+Squam,Deep Haven,2001-06-25,7.3,1,Deep Haven,4.511412242873678
+Squam,Deep Haven,2001-08-28,9.0,1,Deep Haven,5.445251948019303
+Squam,Deep Haven,2001-08-28,9.0,1,Deep Haven,5.940818739993341
+Squam,Deep Haven,2002-06-21,8.7,1,Deep Haven,6.650943904595407
+Squam,Deep Haven,2002-07-31,9.2,1,Deep Haven,7.014805225219224
+Squam,Deep Haven,2006-07-26,10.1,1,Deep Haven,7.226656761522791
+Squam,Deep Haven,2007-06-27,9.2,1,Deep Haven,6.455478957498056
+Squam,Deep Haven,2011-06-22,6.8,1,Deep Haven,6.180892038282508
+Squam,Deep Haven,2015-06-17,11.4,1,Deep Haven,6.179546864667999
+Squam,Deep Haven,2016-07-12,10.2,1,Deep Haven,5.111357597045231
+Squam,Deep Haven,2016-07-12,10.2,1,Deep Haven,5.304723334300146
+Squam,Loon Reef,1992-06-16,8.7,1,Loon Reef,4.130802910811412
+Squam,Loon Reef,1992-06-16,8.7,1,Loon Reef,3.9669331710789217
+Squam,Loon Reef,2001-06-25,7.3,1,Loon Reef,5.812010181829759
+Squam,Loon Reef,2001-06-25,7.3,1,Loon Reef,5.509180963863185
+Squam,Loon Reef,2001-08-28,9.8,1,Loon Reef,5.4033106919996285
+Squam,Loon Reef,2001-08-28,9.8,1,Loon Reef,5.2153092287406695
+Squam,Loon Reef,2002-06-21,9.3,1,Loon Reef,4.862117407270572
+Squam,Loon Reef,2002-07-31,9.4,1,Loon Reef,8.184412229492727
+Squam,Loon Reef,2006-07-26,10.1,1,Loon Reef,6.838870780741483
+Squam,Loon Reef,2009-08-19,9.4,1,Loon Reef,7.413290353785107
+Squam,Loon Reef,2010-07-21,10.0,1,Loon Reef,5.15401664096851
+Squam,Loon Reef,2011-06-22,7.3,1,Loon Reef,6.104953886982814
+Squam,Loon Reef,2013-06-19,7.4,1,Loon Reef,6.124943224960978
+Squam,Loon Reef,2015-06-17,10.5,1,Loon Reef,6.030800738605812

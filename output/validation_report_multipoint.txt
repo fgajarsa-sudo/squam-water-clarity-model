@@ -1,0 +1,95 @@
+======================================================================
+PER-SITE VALIDATION: EACH READING MATCHED TO ITS OWN MONITORING SITE
+======================================================================
+
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26
+Real-data sites with no coordinate provided, excluded here: ['1 East', '13 Bean Cove', '14 Strutevant Bay', '14A Inner Sturtevant Bay', '16A Inner Dog Cove', '1B', '20 Bear Cove', '9B Outer Squaw Cove']
+
+--- Exact date match, all sites pooled ---
+All sites: n=135
+  Pearson r = 0.191 (p=0.0268)
+  R^2       = 0.036
+  MAE       = 1.898 m
+  RMSE      = 2.318 m
+
+--- +/- 3 day tolerance match, all sites pooled ---
+All sites, tolerance (3d): n=445
+  Pearson r = 0.264 (p=0.0000)
+  R^2       = 0.070
+  MAE       = 1.908 m
+  RMSE      = 2.292 m
+
+--- Per-site breakdown (tolerance match) ---
+  1 West: n=52
+  Pearson r = 0.165 (p=0.2423)
+  R^2       = 0.027
+  MAE       = 2.029 m
+  RMSE      = 2.344 m
+
+  10 Sandwich Bay: n=39
+  Pearson r = 0.204 (p=0.2125)
+  R^2       = 0.042
+  MAE       = 2.699 m
+  RMSE      = 3.011 m
+
+  11 Kent Island: only 2 matched pairs -- not enough to compute a meaningful correlation
+
+  12 Moultonboro Bay: n=38
+  Pearson r = 0.224 (p=0.1757)
+  R^2       = 0.050
+  MAE       = 2.159 m
+  RMSE      = 2.445 m
+
+  14 Sturtevant Bay: n=37
+  Pearson r = 0.101 (p=0.5503)
+  R^2       = 0.010
+  MAE       = 2.093 m
+  RMSE      = 2.407 m
+
+  16 Dog Cove: n=33
+  Pearson r = 0.143 (p=0.4266)
+  R^2       = 0.021
+  MAE       = 1.259 m
+  RMSE      = 1.562 m
+
+  18 Piper Cove: n=44
+  Pearson r = 0.119 (p=0.4420)
+  R^2       = 0.014
+  MAE       = 1.447 m
+  RMSE      = 1.811 m
+
+  2 Cotton Cove: n=29
+  Pearson r = 0.344 (p=0.0676)
+  R^2       = 0.118
+  MAE       = 1.123 m
+  RMSE      = 1.336 m
+
+  5 Livermore Cove: n=37
+  Pearson r = 0.463 (p=0.0039)
+  R^2       = 0.215
+  MAE       = 1.623 m
+  RMSE      = 1.886 m
+
+  8 Rattlesnake Cove: n=32
+  Pearson r = 0.317 (p=0.0774)
+  R^2       = 0.100
+  MAE       = 1.073 m
+  RMSE      = 1.315 m
+
+  9A Inner Squaw Cove: n=25
+  Pearson r = 0.266 (p=0.1979)
+  R^2       = 0.071
+  MAE       = 1.082 m
+  RMSE      = 1.386 m
+
+  Deep Haven: n=41
+  Pearson r = 0.186 (p=0.2451)
+  R^2       = 0.034
+  MAE       = 2.773 m
+  RMSE      = 3.019 m
+
+  Loon Reef: n=36
+  Pearson r = 0.146 (p=0.3966)
+  R^2       = 0.021
+  MAE       = 2.885 m
+  RMSE      = 3.199 m

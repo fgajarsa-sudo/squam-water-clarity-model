@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Portable CLI tools downloaded locally
+tools/
+
+# Raw and intermediate data (large, reproducible from EPA/GEE APIs, not needed for the repo)
+data/raw/
+data/processed/
+
+# Loose log files
+logs_*.txt

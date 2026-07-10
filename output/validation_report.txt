@@ -1,0 +1,43 @@
+======================================================================
+SQUAM / LITTLE SQUAM MODEL VALIDATION AGAINST REAL READINGS
+======================================================================
+
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26 (no real relationship)
+
+--- Exact date match ---
+Exact-date matches: n=23
+  Pearson r = 0.061 (p=0.7833)
+  R^2       = 0.004
+  MAE       = 1.816 m
+  RMSE      = 2.200 m
+
+  Squam Lake only: n=14
+  Pearson r = -0.164 (p=0.5747)
+  R^2       = 0.027
+  MAE       = 1.902 m
+  RMSE      = 2.394 m
+
+  Little Squam Lake only: n=9
+  Pearson r = 0.349 (p=0.3574)
+  R^2       = 0.122
+  MAE       = 1.682 m
+  RMSE      = 1.858 m
+
+--- +/- 3 day tolerance match ---
+Tolerance matches (3d): n=97
+  Pearson r = 0.212 (p=0.0373)
+  R^2       = 0.045
+  MAE       = 1.909 m
+  RMSE      = 2.253 m
+
+  Squam Lake only: n=52
+  Pearson r = 0.175 (p=0.2155)
+  R^2       = 0.031
+  MAE       = 1.765 m
+  RMSE      = 2.155 m
+
+  Little Squam Lake only: n=45
+  Pearson r = 0.271 (p=0.0720)
+  R^2       = 0.073
+  MAE       = 2.076 m
+  RMSE      = 2.361 m
