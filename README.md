@@ -19,6 +19,7 @@ Methodology follows Piper, Glines & Rose (2024), *Ecology* 105(5): e4291, using 
 | `10_train_model_heldout.py` | Retrain excluding all Squam-area sites from training (fixes a data leakage issue found during validation) |
 | `11_predict_multipoint.py` | Regenerate predictions at 13 named monitoring sites instead of one central point per lake |
 | `12_validate_multipoint.py` | Validate each real reading against its own site's prediction |
+| `14_make_manuscript_figures.py` | Draw manuscript Figures 1 and 2 (300 dpi) from `output/matched_tolerance_3day_multipoint.csv`: Figure 1 pools all 445 matched readings (r = 0.264); Figure 2 shows one panel per site with at least 20 readings. Writes `output/manuscript_figure_1.png` and `output/manuscript_figure_2.png`, and stops if any number differs from the manuscript |
 
 ## What's not in this repo
 
