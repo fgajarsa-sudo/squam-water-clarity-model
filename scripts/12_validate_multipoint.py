@@ -99,7 +99,7 @@ def main():
     lines.append("PER-SITE VALIDATION: EACH READING MATCHED TO ITS OWN MONITORING SITE")
     lines.append("=" * 70)
     lines.append("")
-    lines.append("National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26")
+    lines.append("National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29")
     lines.append(f"Real-data sites with no coordinate provided, excluded here: {sorted(unmatched_sites)}")
     lines.append("")
     lines.append("--- Exact date match, all sites pooled ---")

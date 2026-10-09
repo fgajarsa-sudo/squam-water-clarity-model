@@ -119,7 +119,7 @@ def main():
     lines.append("VALIDATION AGAINST REAL READINGS")
     lines.append("=" * 70)
     lines.append("")
-    lines.append("National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26")
+    lines.append("National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29")
     lines.append("Previous run (Squam = full lake-wide average): Squam-only r ranged -0.16 to 0.18, not significant")
     lines.append("")
     lines.append("--- Exact date match ---")

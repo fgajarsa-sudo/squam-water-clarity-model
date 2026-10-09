@@ -2,7 +2,7 @@
 PER-SITE VALIDATION: EACH READING MATCHED TO ITS OWN MONITORING SITE
 ======================================================================
 
-National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29
 Real-data sites with no coordinate provided, excluded here: ['1 East', '13 Bean Cove', '14 Strutevant Bay', '14A Inner Sturtevant Bay', '16A Inner Dog Cove', '1B', '20 Bear Cove', '9B Outer Squaw Cove']
 
 --- Exact date match, all sites pooled ---

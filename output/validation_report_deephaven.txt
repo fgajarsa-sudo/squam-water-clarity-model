@@ -3,7 +3,7 @@ SQUAM (site='Deep Haven' only) / LITTLE SQUAM (lake-wide, unchanged)
 VALIDATION AGAINST REAL READINGS
 ======================================================================
 
-National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29
 Previous run (Squam = full lake-wide average): Squam-only r ranged -0.16 to 0.18, not significant
 
 --- Exact date match ---

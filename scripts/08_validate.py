@@ -3,7 +3,7 @@ Step 6: Compare model predictions against the user-supplied real in-lake
 Secchi readings for Squam and Little Squam. Reports the honest correlation,
 both for exact-date matches and for a +/-3-day tolerance match (since field
 sampling and satellite passes rarely land on the same calendar day), and
-compares against the national model's r = -0.22 baseline.
+compares against the national model's r = -0.12 baseline.
 
 Output: output/validation_report.txt, output/validation_scatter.png
 """
@@ -108,7 +108,7 @@ def main():
     lines.append("SQUAM / LITTLE SQUAM MODEL VALIDATION AGAINST REAL READINGS")
     lines.append("=" * 70)
     lines.append("")
-    lines.append(f"National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26 (no real relationship)")
+    lines.append(f"National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29 (no real relationship)")
     lines.append("")
     lines.append("--- Exact date match ---")
     lines.append(report_stats(exact, "Exact-date matches"))

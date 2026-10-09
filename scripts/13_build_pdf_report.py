@@ -79,7 +79,7 @@ def build():
         "bays was diluting a real signal, a correction after discovering the production model had partly "
         "trained on Squam-area data, and a final multi-point comparison matching each real reading to a "
         "prediction from its own specific monitoring site. All correlations are compared against the "
-        "national LAGOS-US LANDSAT model's baseline of r = -0.22 (p = 0.26) at these lakes, which is what "
+        "national LAGOS-US LANDSAT model's baseline of r = -0.12 (p = 0.52, n = 29) at these lakes, which is what "
         "motivated this project in the first place.",
         styles["BodyJustify"]
     ))
@@ -92,7 +92,7 @@ def build():
     story.append(Paragraph(
         "The first validation pass compared model predictions at one central coordinate per lake against "
         "real Secchi readings averaged across all reporting stations on each lake, for each date. "
-        "National model baseline at these lakes: r = -0.22, p = 0.26 (no real relationship).",
+        "National model baseline at these lakes: r = -0.12, p = 0.52, n = 29 (no real relationship).",
         styles["BodyJustify"]
     ))
 

@@ -2,7 +2,7 @@
 SQUAM / LITTLE SQUAM MODEL VALIDATION AGAINST REAL READINGS
 ======================================================================
 
-National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.22, p = 0.26 (no real relationship)
+National model (LAGOS-US LANDSAT) baseline at these lakes: r = -0.12, p = 0.52, n = 29 (no real relationship)
 
 --- Exact date match ---
 Exact-date matches: n=23
