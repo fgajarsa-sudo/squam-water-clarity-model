@@ -1,0 +1,5 @@
+VALIDATION RE-RUN FROM THE AUTHOR'S SAVED 13-SITE EXTRACTION (scripts 11 --skip-extract, then 12)
+matched pairs: re-run 445, committed 445, merged 445
+max absolute difference, predicted Secchi: 1.78e-15 m
+max absolute difference, measured Secchi: 0.00e+00 m
+pooled r 0.264, RMSE 2.292 m, MAE 1.908 m, bias -1.705 m

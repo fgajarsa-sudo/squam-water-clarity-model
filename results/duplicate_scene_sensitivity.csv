@@ -1,0 +1,6 @@
+rule,n,r,p,rmse_m,bias_m,r_lo,r_hi,rmse_lo,rmse_hi
+committed (merge_asof pick),445,0.264253,0.000000,2.292491,-1.704774,,,,
+mean of same-day rows,445,0.267545,0.000000,2.276400,-1.690744,,,,
+min of same-day rows,445,0.271245,0.000000,2.347704,-1.778485,,,,
+max of same-day rows,445,0.256186,0.000000,2.216849,-1.603004,,,,
+"random pick among same-day rows (1,000 draws): median [2.5%, 97.5%] of r",445,0.261709,,2.283731,-1.690679,0.244784,0.280616,2.267831,2.296973

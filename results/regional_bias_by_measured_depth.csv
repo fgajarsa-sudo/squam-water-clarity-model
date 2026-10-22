@@ -1,0 +1,8 @@
+binning,bin,n,mean_real,mean_pred,bias_m,rmse_m,mae_m,frac_underpredicted
+"measured (real) depth, fixed bins",3-<5,22,4.320455,5.397264,1.076809,1.370155,1.114314,0.045455
+"measured (real) depth, fixed bins",5-<7,120,6.276750,5.621338,-0.655412,1.160042,0.927313,0.816667
+"measured (real) depth, fixed bins",7-<9,221,7.848824,5.980234,-1.868589,2.132513,1.912978,0.959276
+"measured (real) depth, fixed bins",>=9,82,9.777744,6.232541,-3.545202,3.713680,3.545202,1.000000
+"measured (real) depth, terciles",T1 low [3.2-7.0],157,6.071720,5.589047,-0.482672,1.235609,0.997531,0.726115
+"measured (real) depth, terciles",T2 mid [7.1-8.2],146,7.623493,5.963490,-1.660004,1.922865,1.719029,0.945205
+"measured (real) depth, terciles",T3 high [8.3-11.4],142,9.284049,6.182047,-3.102002,3.313635,3.110398,0.992958

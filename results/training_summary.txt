@@ -1,0 +1,7 @@
+TRAINING TABLE (rebuilt from the author's saved insitu_secchi_clean.csv + matched_landsat.csv)
+rows before exclusion: 19510; sites: 1399
+excluded by the name pattern: 107 rows at 16 sites
+rows after exclusion: 19403; sites: 1383
+reading dates in the training set: 1984-06-04 to 2025-10-01
+rows by state: VT 14734, NH 2768, ME 1901
+Secchi depth in training, median 4.50 m, 5th-95th percentile 1.50-9.30 m, maximum 18.80 m

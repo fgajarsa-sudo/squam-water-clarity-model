@@ -1,0 +1,4 @@
+binning,bin,n,mean_real,mean_pred,bias_m,rmse_m,mae_m
+"PREDICTED depth, terciles (reverse conditioning)",P1 low [3.3-5.5],149,7.256174,4.961413,-2.294761,2.720385,2.391258
+"PREDICTED depth, terciles (reverse conditioning)",P2 mid [5.5-6.2],148,7.510169,5.805882,-1.704287,2.257535,1.876657
+"PREDICTED depth, terciles (reverse conditioning)",P3 high [6.2-9.3],148,8.053716,6.942430,-1.111287,1.804187,1.454219

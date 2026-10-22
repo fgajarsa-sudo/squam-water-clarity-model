@@ -1,0 +1,18 @@
+SQUAM-AREA CHECK OF THE TRAINING TABLE (no coordinates written)
+1. Name pattern removed 107 rows at 16 stations.
+2. Other stations whose name or code contains SQU, SQUAM, SQUAW or LSQ: 4
+     11113300-WINMBELD | LAKE WINNISQUAM MOHAWK ISL-DEEP SPOT | 3 rows
+     11113300-WINPLACD | LAKE WINNISQUAM POT ISLAND-DEEP SPOT | 12 rows
+     11113300-WINTLACD | LAKE WINNISQUAM 3 ISLAND-DEEP SPOT | 3 rows
+     NALMS-F870960 | Lake Winnisquam, Belknap County, NH, USA | 13 rows
+3. Non-excluded stations inside the bounding box of the 16 excluded stations plus a margin of about 3 km: 8
+     11113300-BARSWHD | BARVILLE POND-DEEP SPOT | 1 rows
+     11113300-KANMOUD | LAKE KANASATKA-DEEP SPOT | 6 rows
+     11113300-KUSSWHD | KUSUMPE POND-DEEP SPOT | 1 rows
+     11113300-WHIHOLD | WHITE OAK POND-DEEP SPOT | 13 rows
+     NALMS-F867820 | Lake Kanasatka, Carroll County, NH, USA | 3 rows
+     NALMS-F870846 | White Oak Pond, Grafton County, NH, USA | 2 rows
+     U_NH01-KAN02AL | LAKE KANASATKA-2 ANIMAL | 3 rows
+     U_NH01-KAN03WL | LAKE KANASATKA-3 WEST | 9 rows
+   Each is a separate named water body (Lake Kanasatka, White Oak Pond, Barville Pond, Kusumpe Pond), not Squam or Little Squam.
+4. The NHDES station codes SQUAM1WEST, SQU14AL and SQU20BL, which the name pattern would miss in NHDES files, are not in the Water Quality Portal training table (checked under item 2).
