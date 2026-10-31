@@ -21,9 +21,13 @@ Methodology follows Piper, Glines & Rose (2024), *Ecology* 105(5): e4291, using 
 | `12_validate_multipoint.py` | Validate each real reading against its own site's prediction |
 | `14_make_manuscript_figures.py` | Draw manuscript Figures 1 and 2 (300 dpi) from `output/matched_tolerance_3day_multipoint.csv`: Figure 1 pools all 445 matched readings (r = 0.264); Figure 2 shows one panel per site with at least 20 readings. Writes `output/manuscript_figure_1.png` and `output/manuscript_figure_2.png`, and stops if any number differs from the manuscript |
 
+## Archived files
+
+`data/archive/` holds the saved intermediate files behind the paper: the cleaned Secchi readings, the Landsat matching output, the training table, the trained random forest, the cross-validation result and the 13-site validation extraction. Its README describes each file and how to check it.
+
 ## What's not in this repo
 
-Raw and intermediate data (`data/raw/`, `data/processed/`) are excluded via `.gitignore` — they're large (500+ MB), and some raw EPA fields contained incidental free-text volunteer field notes unrelated to this project's purpose that were stripped before any further use.
+The raw download and other working files (`data/raw/`, `data/processed/`) are excluded via `.gitignore` — they're large (500+ MB), and some raw EPA fields contained incidental free-text volunteer field notes unrelated to this project's purpose that were stripped before any further use.
 
 ## Methodology and results
 

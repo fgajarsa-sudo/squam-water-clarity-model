@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Squam Lake water clarity model: code, saved intermediate files, and trained random forest for satellite Secchi depth"
+type: software
+version: "1.0.0"
+date-released: "2026-10-30"
+authors:
+  - family-names: "Gajarsa"
+    given-names: "Francesca"
+repository-code: "https://github.com/fgajarsa-sudo/squam-water-clarity-model"
+abstract: "Code, cleaned Water Quality Portal Secchi readings, Landsat matching output, training table, trained random forest, cross-validation results and validation extraction for a regional satellite water clarity model for Squam Lake and Little Squam Lake, New Hampshire. Supports the manuscript 'Water Clarity, Phosphorus, and Common Loon Chick Survival on Squam Lake, New Hampshire'."
+keywords:
+  - Secchi depth
+  - Landsat
+  - random forest
+  - Squam Lake
+  - water clarity
