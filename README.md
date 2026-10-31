@@ -23,7 +23,7 @@ Methodology follows Piper, Glines & Rose (2024), *Ecology* 105(5): e4291, using 
 
 ## Archived files
 
-`data/archive/` holds the saved intermediate files behind the paper: the cleaned Secchi readings, the Landsat matching output, the training table, the trained random forest, the cross-validation result and the 13-site validation extraction. Its README describes each file and how to check it.
+`data/archive/` holds the saved intermediate files behind the paper: the cleaned Secchi readings, the Landsat matching output, the training table, the trained random forest, the cross-validation result and the 13-site validation extraction. Its README describes each file and how to check it. Release v1.0.0 is archived on Zenodo: [10.5281/zenodo.23827897](https://doi.org/10.5281/zenodo.23827897).
 
 ## What's not in this repo
 

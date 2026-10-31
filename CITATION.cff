@@ -3,6 +3,7 @@ message: "If you use these files, please cite them as below."
 title: "Squam Lake water clarity model: code, saved intermediate files, and trained random forest for satellite Secchi depth"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.23827897"
 date-released: "2026-10-30"
 authors:
   - family-names: "Gajarsa"
